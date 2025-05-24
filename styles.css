@@ -1,0 +1,56 @@
+body{
+   background-color: #101010;
+}
+.navbar{
+  margin-right: 10px;
+  background-color:#181818;
+}
+.navbar-brand{
+  color: #f2f2f2;
+  margin-left: 40px;
+  font-size: 24px;
+}
+.navbar-brand:hover {
+  color: #f2f2f2;
+}
+.navbar-brand:visited {
+  color: #f2f2f2;
+}
+.nav-item{
+  color: #f2f2f2;
+}
+.nav-link{
+  color: #f2f2f2;
+}
+.nav-link:hover{
+  color: #f2f2f2;
+}
+.nav-link:visited {
+  color: #f2f2f2;
+}
+/* Card CSS */
+.custom-card{
+  background-color: #101010;
+  color:#f2f2f2;
+}
+.card-text-w{
+  font-size: 6rem;
+}
+.btn{
+  background-color: #101010;
+}
+.btn:hover{
+   background-color: #101010;
+}
+@media (max-width: 576px) {
+      .card-text-w {
+        font-size: 3rem; /* Smaller font size for mobile devices */
+      }
+}
+.custom-card2{
+  background-color: #f2f2f2;
+}
+.Footer{
+  color: #101010;
+  background-color: #f2f2f2;
+}
